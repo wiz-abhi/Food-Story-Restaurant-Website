@@ -27,6 +27,13 @@ li{
     background-attachment: fixed;
     background-size: cover;
 }
+.out2
+{
+    height: 500px;
+    background-image: url(night.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
 .logo{
     height: 100px;
     width:100px;
