@@ -52,7 +52,7 @@ a{
          color:white;
 }
 a:hover{
-    font-size: x-large;
+    font-size: large;
     text-decoration: underline;
 }
 
@@ -136,4 +136,6 @@ footer{
     position: absolute;
     right: 10px;
 }
-
+#btn{
+    font-size: xx-large;
+}

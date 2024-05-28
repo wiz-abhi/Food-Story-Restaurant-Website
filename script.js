@@ -1,6 +1,7 @@
 let varu=document.querySelector("div.outt");
 let btn=document.querySelector("#btn");
 let currMode="light";
+let aa=document.querySelector("#intro");
 btn.addEventListener("click", () => {
 
     if(currMode=="light")
@@ -17,3 +18,4 @@ else {
 
 console.log(currMode);
 })
+// document.getElementById("#intro").style.color="green";
